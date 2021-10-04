@@ -1,4 +1,4 @@
-<p align="center">movies_api</p>
+<p align="center">## movies api task</p>
 
 
 ## install project 
@@ -8,7 +8,7 @@
 - composer dump-autoload
 
 
-#movies_api
+## movies_api
 
 - first run cron seeds by : php artisan schedule:work
 
