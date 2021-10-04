@@ -10,8 +10,8 @@
 
 ## movies_api
 
-- first run cron seeds by : php artisan schedule:work
+- first run local server by : php artisan serv 
 
-- run local server by : php artisan serv
+- run cron seeds by : php artisan schedule:work
 
 - http://127.0.0.1:8000/api/movies?category_id=12&popular|desc&rated|asc get movies that belongs to category id 12 and order desc by popularity and order asc by top rated
